@@ -18,3 +18,5 @@ By Funmi Looi-Somoye
 ##### FakeNews_DatasetCleansing.ipynb 
 Python notebook to investigate dataset and perform data cleansing to remove missing values and duplicate records.
 
+##### FakeNews_CredibilityAnalysis.ipynb 
+Python notebook to investigate the proportion of fake to real news in the dataset and the most and least credible news source.
