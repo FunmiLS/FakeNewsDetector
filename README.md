@@ -6,7 +6,7 @@ Given the proliferation of misinformation online, detecting and mitigating again
 In this project, I create a fake news detector using feature engineering and machine learning. 
 
 By Funmi Looi-Somoye
-### Requirements
+## Requirements
 - Pandas
 - NumPy
 - Matplotlib
@@ -14,9 +14,9 @@ By Funmi Looi-Somoye
 - Dataset: news_articles.csv
 - Dataset Source: https://www.kaggle.com/datasets/ruchi798/source-based-news-classification
 
-### Contents
-##### FakeNews_DatasetCleansing.ipynb 
+## Contents
+##### (1) FakeNews_DatasetCleansing.ipynb 
 Python notebook to investigate dataset and perform data cleansing to remove missing values and duplicate records.
 
-##### FakeNews_CredibilityAnalysis.ipynb 
+##### (2) FakeNews_CredibilityAnalysis.ipynb 
 Python notebook to investigate the proportion of fake to real news in the dataset and the most and least credible news source.
