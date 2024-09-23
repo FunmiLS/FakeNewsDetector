@@ -15,6 +15,6 @@ By Funmi Looi-Somoye
 - Dataset Source: https://www.kaggle.com/datasets/ruchi798/source-based-news-classification
 
 ### Contents
-##### FakeNews_DatasetCleansing 
+##### FakeNews_DatasetCleansing.ipynb 
 Python notebook to investigate dataset and perform data cleansing to remove missing values and duplicate records.
 
