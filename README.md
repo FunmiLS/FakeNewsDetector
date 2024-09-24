@@ -21,5 +21,5 @@ Python notebook to investigate the dataset and perform data cleansing to remove 
 ##### (2) FakeNews_CredibilityAnalysis.ipynb 
 Python notebook to investigate the proportion of fake to real news in the dataset and the most and least credible news sources.
 
-##### (2) FakeNews_KeywordsLen.ipynb 
+##### (3) FakeNews_KeywordsLen.ipynb 
 Python notebook to investigate the top 5 keywords associated with fake news articles and the average title and text length for real and fake news articles.
