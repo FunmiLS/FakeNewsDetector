@@ -23,3 +23,6 @@ Python notebook to investigate the proportion of fake to real news in the datase
 
 ##### (3) FakeNews_KeywordsLength.ipynb 
 Python notebook to investigate the top 5 keywords associated with fake news articles and the average title and text length for real and fake news articles.
+
+##### (4) FakeNews_FeatureEngineering.ipynb 
+Python notebook to predict whether a news article is fake based on news source and title using feature engineering.
