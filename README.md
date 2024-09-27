@@ -27,5 +27,5 @@ Python notebook to investigate the top 5 keywords associated with fake news arti
 ##### (4) FakeNews_FeatureEngineering.ipynb 
 Python notebook to predict whether a news article is fake based on news source and title using feature engineering.
 
-##### (5) FakeNews_LogisiticRegression.ipynb 
+##### (5) FakeNews_LogisticRegression.ipynb 
 Python notebook to build a logistic regression model to predict if an article is fake based on the article's content.
