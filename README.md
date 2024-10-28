@@ -30,3 +30,6 @@ Python notebook to predict whether a news article is fake based on news source a
 
 ##### (5) FakeNews_LogisticRegression.ipynb 
 Python notebook to build a logistic regression model to predict if an article is fake based on the article's content.
+
+##### (6) FakeNews_RandomForest.ipynb
+Python notebook to create a random forest classifier to predict fake news based on the article title.
