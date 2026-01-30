@@ -5,12 +5,16 @@ Given the proliferation of misinformation online, detecting and mitigating again
 
 In this project, I create a fake news detector using feature engineering and machine learning. 
 
-By Funmi Looi-Somoye
-## Requirements
-- Pandas
-- NumPy
-- Matplotlib
-- sklearn
+## Tech Stack & Requirements
+This project is built using Python 3.x and the following libraries:
+
+Data Manipulation: Pandas, NumPy
+
+Visualization: Matplotlib, Seaborn
+
+Machine Learning: scikit-learn (Logistic Regression, Random Forest, Feature Extraction)
+
+Dataset: Source-Based News Classification (via Kaggle).
 
 - Dataset: news_articles.csv
 - Dataset Source: https://www.kaggle.com/datasets/ruchi798/source-based-news-classification
